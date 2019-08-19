@@ -55,6 +55,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 
 
 ### P
+#### predicate
+1. in grammar, the part of a sentence that contains the verb and gives information about the subject  
 #### pre-emptive
 1. If something is pre-emptive, it is done before other people can act, especially to prevent them from doing something else.  
 
