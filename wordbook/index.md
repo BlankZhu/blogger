@@ -32,7 +32,9 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 1. Consisting of parts or people that are similar to each other or are of the same type.  
 
 ### I
-
+#### integrity
+1. the quality of being honest and having strong moral principles that you refuse to change
+2. the quality of being whole and complete
 
 ### J
 
