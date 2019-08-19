@@ -28,6 +28,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 
 
 ### H
+#### hideous
+1. extremely ugly or bad
 #### homogeneous
 1. Consisting of parts or people that are similar to each other or are of the same type.  
 
