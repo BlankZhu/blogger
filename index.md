@@ -38,6 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### A Extra link
-
-https://blankzhu.github.io/blogger/2019/
-https://blankzhu.github.io/blogger/wordbook/
+#### https://blankzhu.github.io/blogger/2019/
+#### https://blankzhu.github.io/blogger/wordbook/
