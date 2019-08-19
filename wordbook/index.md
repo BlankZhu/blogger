@@ -71,11 +71,13 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 
 
 ### S
-#### spurious
-1. false and not what it appears to be, or (of reasons and judgments) based on something that has not been correctly understood and therefore false  
 #### spawn
 1. the eggs of fish, frogs, etc  
 2.  to cause something new, or many new things, to grow or start suddenly  
+#### spurious
+1. false and not what it appears to be, or (of reasons and judgments) based on something that has not been correctly understood and therefore false  
+#### strand
+1. a thin thread of something, often one of a few, twisted around each other to make a string or rope  
 
 ### T
 
