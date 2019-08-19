@@ -1,7 +1,7 @@
 ## Word Book
 
-A place where I keep professional， uncommon vocabulary.
-Most of the meaning come from 
+A place where I keep professional， uncommon vocabulary.  
+Most of the meaning come from <https://dictionary.cambridge.org>  
 
 ### A
 
@@ -12,8 +12,8 @@ Most of the meaning come from
 
 ### C
 #### coherent
-1. If an argument, set of ideas, or a plan is coherent, it is clear and carefully considered, and each part of it connects or follows in a natural or reasonable way.
-2. If someone is coherent, you can understand what that person says.
+1. If an argument, set of ideas, or a plan is coherent, it is clear and carefully considered, and each part of it connects or follows in a natural or reasonable way.  
+2. If someone is coherent, you can understand what that person says.  
 
 ### D
 
@@ -29,7 +29,7 @@ Most of the meaning come from
 
 ### H
 #### homogeneous
-1. Consisting of parts or people that are similar to each other or are of the same type.
+1. Consisting of parts or people that are similar to each other or are of the same type.  
 
 ### I
 
@@ -54,7 +54,7 @@ Most of the meaning come from
 
 ### P
 #### pre-emptive
-1. If something is pre-emptive, it is done before other people can act, especially to prevent them from doing something else.
+1. If something is pre-emptive, it is done before other people can act, especially to prevent them from doing something else.  
 
 ### Q
 
