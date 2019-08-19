@@ -65,7 +65,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 
 
 ### S
-
+#### spurious
+1. false and not what it appears to be, or (of reasons and judgments) based on something that has not been correctly understood and therefore false
 
 ### T
 
