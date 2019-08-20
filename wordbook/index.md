@@ -53,7 +53,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 
 
 ### N
-
+#### notoriously
+1. in a way that is famous for something bad
 
 ### O
 
