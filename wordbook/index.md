@@ -14,6 +14,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 #### coherent
 1. If an argument, set of ideas, or a plan is coherent, it is clear and carefully considered, and each part of it connects or follows in a natural or reasonable way.  
 2. If someone is coherent, you can understand what that person says.  
+#### coexists
+1. to live or exist together, esp. in peace, at the same time or in the same place  
 
 ### D
 
@@ -25,7 +27,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 
 
 ### G
-
+#### granularity  
+1. the quality of including a lot of small details
 
 ### H
 #### hideous
