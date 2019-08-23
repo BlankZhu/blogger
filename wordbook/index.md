@@ -18,7 +18,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 1. to live or exist together, esp. in peace, at the same time or in the same place  
 
 ### D
-
+#### drain
+1. If you drain something, you remove the liquid from it, usually by pouring it away or allowing it to flow away, and if something drains, liquid flows away or out of it
 
 ### E
 
@@ -39,6 +40,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 ### I
 #### incorporate
 1. to include something as part of something larger  
+#### incur  
+to experience something, usually something unpleasant, as a result of actions you have taken  
 #### integrity
 1. the quality of being honest and having strong moral principles that you refuse to change
 2. the quality of being whole and complete  
@@ -84,7 +87,8 @@ Most of the meaning come from <https://dictionary.cambridge.org>
 1. a thin thread of something, often one of a few, twisted around each other to make a string or rope  
 
 ### T
-
+#### transparent
+1. If a substance or object is transparent, you can see through it very clearly
 
 ### U
 
